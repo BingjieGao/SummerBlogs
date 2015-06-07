@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title:  "Initial Research on MCUs"
 date:   2015-06-05 22:52:48
 categories: jekyll update
 ---
+
 #Day1-2
 ###Initial Research on MCUs
 
