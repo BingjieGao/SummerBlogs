@@ -12,7 +12,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+# Build settings
 markdown: redcarpet
-# Make redcarpet behave like GitHub Flavored Markdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
