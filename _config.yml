@@ -13,7 +13,7 @@ github_username:  jekyll
 
 # Build settings
 # Build settings
-markdown: redcarpet
 #markdown_ext:  markdown,mkdown,mkdn,mkd,md
-redcarpet:
-  extensions: ["tables","no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+markdown: redcarpet
+redcarpet: 
+    extensions: ["fenced_code_blocks", "tables", "highlight", "with_toc_data", "strikethrough", "underline"]
